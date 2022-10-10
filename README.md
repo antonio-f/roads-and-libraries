@@ -1,2 +1,2 @@
-# roads-and-libraries
-HackerRank's Roads and Libraries solution
+# Roads and Libraries
+HackerRank's Roads and Libraries solution in Python
